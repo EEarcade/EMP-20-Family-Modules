@@ -1,5 +1,7 @@
 EMP-20 Family Modules
 
+*Note: these are not standard circuit board thickness. They will need to be made on 1.2mm circuit board material.
+
 Family Modules for the Needham's EMP-20 are required to write to / read from EPROM chips. Different Modules are used for different sets of chips. 
 
 This project came about from TubeTimeUS's project of a universal module that can be found here: https://github.com/schlae/EMP-20Module
